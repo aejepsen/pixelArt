@@ -1,0 +1,86 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@aejepsen 
+tryber
+/
+sd-019-b-project-pixels-art
+Private
+generated from betrybe/sd-0x-project-pixels-art
+Code
+Issues
+Pull requests
+143
+Actions
+Projects
+Wiki
+Security
+Insights
+sd-019-b-project-pixels-art/style.css
+@aejepsen
+aejepsen 6,7,8 e 9 ok
+Latest commit 8a4b0d6 6 days ago
+ History
+ 1 contributor
+ 43 lines (31 sloc)  499 Bytes
+  
+body {
+    text-align: center;
+}
+
+.color {
+
+    border:black solid 1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+}
+.pixel {
+    border:black solid 1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;  
+    background-color: white; 
+
+}
+#blackPallet {
+
+    background-color: black; 
+
+}
+#redPallet{
+
+    background-color:red; 
+
+}
+#greenPallet{
+
+    background-color: green; 
+
+}
+#bluePallet {
+ 
+    background-color: blue;
+
+}
+
+#clear-board {
+    margin-bottom: 3px;
+} 
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
